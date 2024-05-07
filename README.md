@@ -20,8 +20,8 @@ print the characters and its huffmancode
  
 ## Program:
 ```
-DEVELOPED BY: S.ANUSHARON
-REG.NO:212222240010
+DEVELOPED BY: H.Berjin Shabeck
+REG.NO:212222240018
 ```
 
 # Get the input String
